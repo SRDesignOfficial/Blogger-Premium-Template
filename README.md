@@ -70,6 +70,7 @@ The templates are designed to work with the following modern versions:
 * Microsoft Edge
 * Safari
 * Opera
+* More
 
 ## ⭐ Support
 
